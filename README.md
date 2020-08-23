@@ -30,4 +30,4 @@ Also attached the key with the same.
 
 Note: 
 Wordpress instance is be part of public subnet so that our client can connect our site. 
-MySql instance has is a part of private  subnet so that outside world can't connect to it
+MySql instance is a part of private subnet so that outside world can't connect to it
